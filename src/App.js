@@ -3,6 +3,7 @@ import PdfUploader from "./components/PdfUploader";
 import ChatComponent from "./components/ChatComponent";
 import RenderQA from "./components/RenderQA";
 import { Layout, Typography } from "antd";
+import logo from "./robot-icon.png"
 
 const chatComponentStyle = {
   position: "fixed",
@@ -43,7 +44,8 @@ const App = () => {
             alignItems: "center",
           }}
         >
-          <Title style={{ color: "white " }}>AI Helper</Title>
+          <img src={logo} alt="logo" style={{width: "7vh"}}/>
+          <Title style={{ color: "white " }}>AI Chat</Title>
         </Header>
 
         <Content style={{ width: "80%", margin: "auto" }}>
