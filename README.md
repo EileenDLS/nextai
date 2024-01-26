@@ -5,7 +5,9 @@ A Full-Stack Web-Based Q&A AI Agent for PDF File Queries
 # Technical Stack
 
 Frontend: React, Ant Design
+
 Backend: JavaScript, Express.js, Node.js
+
 AI Tool: OpenAI's GPT-3.5 Turbo API, Langchain
 
 ## Available Scripts
