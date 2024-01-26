@@ -1,6 +1,6 @@
 # AI Chat
 
-A Full-Stack Web-Based Q&A AI Agent for PDF File Queries
+A Full-Stack Web-Based Q&A AI Agent for PDF File Queries, created a conversational UI, enabling users to upload and interact with PDF files in real-time
 
 # Technical Stack
 
@@ -10,30 +10,6 @@ Backend: JavaScript, Express.js, Node.js
 
 AI Tool: OpenAI's GPT-3.5 Turbo API, Langchain
 
-## Available Scripts
+# Demo
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+https://www.dalingsweb.com/aichat
